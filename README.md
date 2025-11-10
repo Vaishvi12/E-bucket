@@ -18,7 +18,6 @@
 <p align="center">
     <img src="documents/1.jpg" width="250" alt="Home Page Picture">
     <img src="documents/2.jpg" width="250" alt="Product Collection Picture">
-    <img src="documents/3.jpg" width="250" alt="Product Details Picture">
 </p>
 
 ## Features:
@@ -37,6 +36,3 @@
 ## License:
 
 This project is licensed under the **MIT License**.
-
-
-- #### [App Download Url](https://drive.google.com/file/d/1ZwqLPUVxeekkj2g8sogE7J5mXqujp2-b/view?usp=sharing)
